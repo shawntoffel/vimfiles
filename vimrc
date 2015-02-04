@@ -17,6 +17,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-commentary'
 Plugin 'scrooloose/syntastic'
 Plugin 'yegappan/mru'
+Plugin 'jiangmiao/auto-pairs'
 
 " snipmate
 Plugin 'MarcWeber/vim-addon-mw-utils.git'

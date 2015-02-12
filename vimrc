@@ -138,6 +138,10 @@ set smarttab
 " 1 tab == 4 spaces
 set shiftwidth=4
 set tabstop=4
+set softtabstop=4
+
+" 1 tab == 2 spaces for ruby
+autocmd Filetype ruby setlocal ts=2 sw=2 sts=2
 
 " Linebreak on 500 characters
 set lbr

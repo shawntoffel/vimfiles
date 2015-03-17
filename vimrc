@@ -11,6 +11,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'quanganhdo/grb256'
 
 Plugin 'tpope/vim-surround'
+Plugin 'gregsexton/MatchTag'
 Plugin 'rstacruz/sparkup'
 
 Plugin 'kien/ctrlp.vim'
@@ -24,6 +25,8 @@ Plugin 'MarcWeber/vim-addon-mw-utils.git'
 Plugin 'tomtom/tlib_vim.git'
 Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
+Plugin 'tpope/vim-rails'
+Plugin 'othress/html5.vim'
 
 call vundle#end()
 

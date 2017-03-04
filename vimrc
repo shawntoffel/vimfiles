@@ -27,6 +27,7 @@ Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
 Plugin 'tpope/vim-rails'
 Plugin 'othree/html5.vim'
+Plugin 'fatih/vim-go'
 
 call vundle#end()
 

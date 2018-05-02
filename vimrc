@@ -14,7 +14,7 @@ Plugin 'tpope/vim-surround'
 Plugin 'gregsexton/MatchTag'
 Plugin 'rstacruz/sparkup'
 
-Plugin 'kien/ctrlp.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'tpope/vim-commentary'
 Plugin 'scrooloose/syntastic'
 Plugin 'yegappan/mru'

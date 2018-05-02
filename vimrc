@@ -12,7 +12,6 @@ Plugin 'quanganhdo/grb256'
 
 Plugin 'tpope/vim-surround'
 Plugin 'gregsexton/MatchTag'
-Plugin 'rstacruz/sparkup'
 
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'tpope/vim-commentary'
@@ -20,11 +19,6 @@ Plugin 'scrooloose/syntastic'
 Plugin 'yegappan/mru'
 Plugin 'jiangmiao/auto-pairs'
 
-" snipmate
-Plugin 'MarcWeber/vim-addon-mw-utils.git'
-Plugin 'tomtom/tlib_vim.git'
-Plugin 'garbas/vim-snipmate'
-Plugin 'honza/vim-snippets'
 Plugin 'othree/html5.vim'
 Plugin 'fatih/vim-go'
 

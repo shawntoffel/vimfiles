@@ -25,7 +25,6 @@ Plugin 'MarcWeber/vim-addon-mw-utils.git'
 Plugin 'tomtom/tlib_vim.git'
 Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
-Plugin 'tpope/vim-rails'
 Plugin 'othree/html5.vim'
 Plugin 'fatih/vim-go'
 

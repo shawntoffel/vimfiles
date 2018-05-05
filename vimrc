@@ -21,6 +21,7 @@ Plugin 'jiangmiao/auto-pairs'
 
 Plugin 'othree/html5.vim'
 Plugin 'fatih/vim-go'
+Plugin 'sirver/ultisnips'
 
 call vundle#end()
 

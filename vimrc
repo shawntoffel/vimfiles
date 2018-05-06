@@ -234,6 +234,6 @@ noremap <leader>0 :tablast<cr>
 " vimgo
 autocmd FileType go nmap <leader>b  <Plug>(go-build)                             
 autocmd FileType go nmap <leader>r  <Plug>(go-run)                               
-ca tn tabnew                                                                     
-ca gb GoBuild                                                                    
+ca tn tabnew
+ca gb GoBuild
 let g:go_fmt_command = "goimports"  

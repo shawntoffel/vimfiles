@@ -230,3 +230,10 @@ noremap <leader>7 7gt
 noremap <leader>8 8gt
 noremap <leader>9 9gt
 noremap <leader>0 :tablast<cr>
+
+" vimgo
+autocmd FileType go nmap <leader>b  <Plug>(go-build)                             
+autocmd FileType go nmap <leader>r  <Plug>(go-run)                               
+ca tn tabnew                                                                     
+ca gb GoBuild                                                                    
+let g:go_fmt_command = "goimports"  
